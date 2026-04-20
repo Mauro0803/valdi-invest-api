@@ -1,0 +1,9 @@
+# Base de datos (Privacidad)
+inversiones.db
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
