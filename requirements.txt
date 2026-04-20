@@ -3,3 +3,5 @@ uvicorn
 sqlalchemy
 yfinance
 pydantic
+psycopg2-binary
+math
